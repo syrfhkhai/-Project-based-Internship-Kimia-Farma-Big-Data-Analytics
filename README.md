@@ -14,7 +14,8 @@ The dataset provided consists of the following tables:
 * kf_inventory
 * kf_kantor_cabang
 * kf_product
->The dataset can also be accessed through the folder: Dataset
+
+[Downloads Data Set](https://drive.google.com/drive/folders/11SGb3FOF9RG1jgzDp1OUG3Nemklngx7w?usp=sharing)
 
 ### Tools
 Tool : Google Cloud BigQuery
