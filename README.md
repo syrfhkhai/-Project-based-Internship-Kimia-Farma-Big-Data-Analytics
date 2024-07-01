@@ -100,9 +100,6 @@ ON
 </details>
 <br>
 
->The query can also be accessed through the file: query.txt
-
->The tabel can be accessed trough the file: Dataset\kf_analisa
 
 ## Data Visualization
 [See Looker Studio](https://lookerstudio.google.com/reporting/84c59f6c-1c35-4410-a03f-7b2b45a36012)
@@ -131,4 +128,3 @@ LIMIT 5
 </details>
 <br>
 
-> The query can also be accessed through the file: query.txt
